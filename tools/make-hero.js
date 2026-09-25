@@ -93,7 +93,7 @@ const CAPTIONS = [
   [24.5, 26.4, 'Goodnight', 'One tap on the house card. What a scene does is yours to decide.'],
 ];
 const END = { from: 26.4, title: 'Floorplan Studio', line: 'Draw your home. Bind it to Home Assistant. Get a live dashboard.',
-  small: 'An app for Home Assistant · alpha · Apache-2.0 · github.com/bitloomai/floorplan-studio' };
+  small: 'An app for Home Assistant · alpha · Apache-2.0 · github.com/karthikbabuks/floorplan-studio' };
 const DURATION = 28.6;
 
 /* ----------------------------------------------------------------- stage */

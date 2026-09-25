@@ -12,7 +12,7 @@ renderer that drew the plan.
 >
 > Expect rough edges, and generate to a **new** dashboard path rather than over
 > one you rely on. You can try the generated dashboard first in the
-> [live demo](https://bitloomai.github.io/floorplan-studio/demo/); the
+> [live demo](https://karthikbabuks.github.io/floorplan-studio/demo/); the
 > repository root says exactly where the testing has reached.
 
 ## What it does
@@ -67,7 +67,7 @@ applies *there*; the **?** button in the top bar opens the whole index, and the
 **⌨** button — or the `?` key — lists every key and gesture.
 
 The same text is published as a
-[help site](https://bitloomai.github.io/floorplan-studio/) and served to AI
+[help site](https://karthikbabuks.github.io/floorplan-studio/) and served to AI
 clients through `get_help`, so the editor, the site and your assistant cannot
 tell you three different things.
 

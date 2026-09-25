@@ -23,7 +23,7 @@ real one. -->
 
 ## The rules this repository runs on
 
-- [ ] No runtime dependency added ([the zero-dependency rule](https://github.com/bitloomai/floorplan-studio/blob/main/CONTRIBUTING.md#the-zero-dependency-rule))
+- [ ] No runtime dependency added ([the zero-dependency rule](https://github.com/karthikbabuks/floorplan-studio/blob/main/CONTRIBUTING.md#the-zero-dependency-rule))
 - [ ] No second implementation of something the shared renderer already does
 - [ ] Nothing new can write to Home Assistant outside `app/lib/ha-write.js`
 - [ ] No real household data: examples and tests use invented `demo_` entity ids,

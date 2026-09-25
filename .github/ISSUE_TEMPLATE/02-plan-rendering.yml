@@ -70,7 +70,7 @@ body:
     id: types
     attributes:
       label: Types, finishes or treatments involved
-      description: "The keys shown in the inspector, or on the help site's [Every type you can place](https://bitloomai.github.io/floorplan-studio/library.html) and [Material gallery](https://bitloomai.github.io/floorplan-studio/materials.html#material-gallery) pages."
+      description: "The keys shown in the inspector, or on the help site's [Every type you can place](https://karthikbabuks.github.io/floorplan-studio/library.html) and [Material gallery](https://karthikbabuks.github.io/floorplan-studio/materials.html#material-gallery) pages."
       placeholder: "fixture.cove, marble_calacatta, glass_railing, door_sliding"
 
   - type: textarea
@@ -86,7 +86,7 @@ body:
     id: demo
     attributes:
       label: Can you see it in the live demo?
-      description: "[The demo house](https://bitloomai.github.io/floorplan-studio/demo/) uses the same renderer. Only relevant if the thing you are reporting is in it."
+      description: "[The demo house](https://karthikbabuks.github.io/floorplan-studio/demo/) uses the same renderer. Only relevant if the thing you are reporting is in it."
       options:
         - "Yes"
         - "No, only in my plan"

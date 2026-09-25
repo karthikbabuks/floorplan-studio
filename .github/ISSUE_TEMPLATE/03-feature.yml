@@ -8,7 +8,7 @@ body:
       value: |
         Start with the **problem** — what you are trying to do and what gets in the way. A good problem statement often finds a better solution than the first one that comes to mind.
 
-        Some reasonable ideas get declined to protect three rules ([CONTRIBUTING.md](https://github.com/bitloomai/floorplan-studio/blob/main/CONTRIBUTING.md)): **no runtime dependencies**, **one renderer** shared by the editor and the dashboard, and a **small writable surface** in Home Assistant. The editor's screen is also already busy, so a gesture or a key usually beats a new button.
+        Some reasonable ideas get declined to protect three rules ([CONTRIBUTING.md](https://github.com/karthikbabuks/floorplan-studio/blob/main/CONTRIBUTING.md)): **no runtime dependencies**, **one renderer** shared by the editor and the dashboard, and a **small writable surface** in Home Assistant. The editor's screen is also already busy, so a gesture or a key usually beats a new button.
 
   - type: dropdown
     id: area

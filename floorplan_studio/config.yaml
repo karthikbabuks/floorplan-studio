@@ -5,7 +5,7 @@ description: >-
   Draw multi-floor house plans in the browser, place devices on them straight
   from your Home Assistant entity list, and generate a floor-plan dashboard —
   without hand-editing JSON.
-url: "https://github.com/bitloomai/floorplan-studio/tree/main/floorplan_studio"
+url: "https://github.com/karthikbabuks/floorplan-studio/tree/main/floorplan_studio"
 arch:
   - aarch64
   - amd64

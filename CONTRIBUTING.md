@@ -135,7 +135,7 @@ Each asks for what that kind of report needs: the app version, your Home
 Assistant version, installation type and architecture, the browser and device,
 what you did, what happened and what you expected. For anything on the
 dashboard, first check whether it also happens in the
-[live demo](https://bitloomai.github.io/floorplan-studio/demo/).
+[live demo](https://karthikbabuks.github.io/floorplan-studio/demo/).
 
 **Redact before you paste.** Logs, project JSON and dashboard configs from a
 real house carry access tokens, latitude/longitude, `person.*` and

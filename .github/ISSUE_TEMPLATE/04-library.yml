@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Everything the plan draws is data in a registry, so a clear description here can become a new entry quickly. Before asking, check [Every type you can place](https://bitloomai.github.io/floorplan-studio/library.html) and the [Material gallery](https://bitloomai.github.io/floorplan-studio/materials.html#material-gallery) — what you need may exist under another name, or as a **look** of an existing type.
+        Everything the plan draws is data in a registry, so a clear description here can become a new entry quickly. Before asking, check [Every type you can place](https://karthikbabuks.github.io/floorplan-studio/library.html) and the [Material gallery](https://karthikbabuks.github.io/floorplan-studio/materials.html#material-gallery) — what you need may exist under another name, or as a **look** of an existing type.
 
   - type: dropdown
     id: kind

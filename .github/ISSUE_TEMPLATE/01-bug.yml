@@ -9,7 +9,7 @@ body:
         Thanks for taking the time. Two things first:
 
         - **Only the latest version is supported.** Update the app and check the problem is still there.
-        - **Redact before you paste.** Logs, project files and dashboard configs from a real house can carry access tokens, latitude/longitude, `person.*` and `device_tracker.*` states, and entity ids that name your rooms and family. Never paste your real `project.json` or dashboard config here. A security problem goes through [SECURITY.md](https://github.com/bitloomai/floorplan-studio/security/policy), not an issue.
+        - **Redact before you paste.** Logs, project files and dashboard configs from a real house can carry access tokens, latitude/longitude, `person.*` and `device_tracker.*` states, and entity ids that name your rooms and family. Never paste your real `project.json` or dashboard config here. A security problem goes through [SECURITY.md](https://github.com/karthikbabuks/floorplan-studio/security/policy), not an issue.
 
         If the plan *draws* something wrong — a wall, a light, a floor, a furniture look — use **The plan draws something wrong** instead; it asks for the things that make a rendering problem fixable.
 
@@ -64,7 +64,7 @@ body:
     id: demo
     attributes:
       label: Does it also happen in the live demo?
-      description: "[The demo](https://bitloomai.github.io/floorplan-studio/demo/) runs the same dashboard cards against an invented house. Only relevant to dashboard problems."
+      description: "[The demo](https://karthikbabuks.github.io/floorplan-studio/demo/) runs the same dashboard cards against an invented house. Only relevant to dashboard problems."
       options:
         - "Yes, I can reproduce it there"
         - "No, only on my installation"

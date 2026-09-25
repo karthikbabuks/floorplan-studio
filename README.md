@@ -8,7 +8,7 @@ An interactive top-down floor-plan editor and dashboard generator, delivered as
 a custom Home Assistant app. The plan you draw and the dashboard you ship are the
 same renderer — not a design tool that exports to something else.
 
-[![Add repository to your Home Assistant instance](https://my.home-assistant.io/badges/supervisor_store.svg)](https://my.home-assistant.io/redirect/supervisor_store/?repository_url=https%3A%2F%2Fgithub.com%2Fbitloomai%2Ffloorplan-studio)
+[![Add repository to your Home Assistant instance](https://my.home-assistant.io/badges/supervisor_store.svg)](https://my.home-assistant.io/redirect/supervisor_store/?repository_url=https%3A%2F%2Fgithub.com%2Fkarthikbabuks%2Ffloorplan-studio)
 
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 [![App version](https://img.shields.io/badge/app-0.0.1-informational.svg)](floorplan_studio/CHANGELOG.md)
@@ -18,15 +18,15 @@ same renderer — not a design tool that exports to something else.
 [![Runtime](https://img.shields.io/badge/runtime-Node%2024%20distroless-5FA04E.svg)](floorplan_studio/Dockerfile)
 [![Architectures](https://img.shields.io/badge/arch-amd64%20%7C%20aarch64-lightgrey.svg)](floorplan_studio/config.yaml)
 
-**[▶ Try the live demo](https://bitloomai.github.io/floorplan-studio/demo/)** ·
-[Read the help guide](https://bitloomai.github.io/floorplan-studio/) ·
-[Browse all types](https://bitloomai.github.io/floorplan-studio/library.html) ·
-[Explore materials](https://bitloomai.github.io/floorplan-studio/materials.html#material-gallery)
+**[▶ Try the live demo](https://karthikbabuks.github.io/floorplan-studio/demo/)** ·
+[Read the help guide](https://karthikbabuks.github.io/floorplan-studio/) ·
+[Browse all types](https://karthikbabuks.github.io/floorplan-studio/library.html) ·
+[Explore materials](https://karthikbabuks.github.io/floorplan-studio/materials.html#material-gallery)
 
-<a href="https://bitloomai.github.io/floorplan-studio/demo/"><img src="./docs/hero.webp" alt="The generated dashboard for an invented single-storey house, on a desktop window and a phone at once, through one day. Daylight sweeps the plan from dawn to dusk while the house card shows solar rising and people leaving and coming home; a lamp is tapped on and lights its room; on the phone a room's popup slides up and a Movie night scene dims the living room on both screens; the plan zooms in like a map; at night a Goodnight button puts the house to bed." width="960"></a>
+<a href="https://karthikbabuks.github.io/floorplan-studio/demo/"><img src="./docs/hero.webp" alt="The generated dashboard for an invented single-storey house, on a desktop window and a phone at once, through one day. Daylight sweeps the plan from dawn to dusk while the house card shows solar rising and people leaving and coming home; a lamp is tapped on and lights its room; on the phone a room's popup slides up and a Movie night scene dims the living room on both screens; the plan zooms in like a map; at night a Goodnight button puts the house to bed." width="960"></a>
 
 <sub>The dashboard Floorplan Studio generates, filmed from the
-<a href="https://bitloomai.github.io/floorplan-studio/demo/">live demo</a>: an
+<a href="https://karthikbabuks.github.io/floorplan-studio/demo/">live demo</a>: an
 invented house through one day, a desktop and a phone sharing one house. Every
 tap runs the real card's own code; the captions, clock and cursor are the only
 things added. <a href="./docs/hero.mp4">Watch it as a sharper video</a>.</sub>
@@ -64,7 +64,7 @@ things added. <a href="./docs/hero.mp4">Watch it as a sharper video</a>.</sub>
 
 ## Try it before you install it
 
-The **[live demo](https://bitloomai.github.io/floorplan-studio/demo/)** is the
+The **[live demo](https://karthikbabuks.github.io/floorplan-studio/demo/)** is the
 dashboard this app generates, for an invented house, running in your browser
 against a stand-in Home Assistant. Drag the time of day and watch the sun move,
 tap a lamp, open a room's popup, run a scene. Nothing in it reaches a real
@@ -98,7 +98,7 @@ does is what your dashboard does.
 | 🤖 **Drivable by an AI** | An MCP endpoint, so a model can draw and edit the plan while your editor updates live — working object by object through stable ids rather than rewriting the file. |
 | 📌 **Say where you mean** | Pin a review note to a floor, a room, an item, an opening, a wall or a bare point. Notes follow what they are attached to, an assistant reads them back with the room around them, and they never reach Home Assistant. |
 | 🖐️ **Mouse, trackpad or tablet** | Pinch and two-finger pan on touch, trackpad pinch, `Space` or middle-drag on a mouse, zoom that holds the point you are pointing at, and a drag that latches to the axis it started along. On a narrow screen the rail and inspector become drawers. |
-| 📖 **Help with pictures** | Every panel's **?** opens help written against the same registries the editor uses. The [help site](https://bitloomai.github.io/floorplan-studio/) adds figures drawn by the renderer itself — daylight at four hours, lamps at three wattages, finishes, walls, doors, blinds — and the live demo, all regenerated whenever the renderer changes. |
+| 📖 **Help with pictures** | Every panel's **?** opens help written against the same registries the editor uses. The [help site](https://karthikbabuks.github.io/floorplan-studio/) adds figures drawn by the renderer itself — daylight at four hours, lamps at three wattages, finishes, walls, doors, blinds — and the live demo, all regenerated whenever the renderer changes. |
 | 📦 **No runtime dependencies** | No third-party runtime packages or lockfile. The production image is distroless, with no shell or package manager. |
 
 <div align="center">
@@ -117,7 +117,7 @@ still a building, down to "no door opens onto the furniture".</sub>
 <img src="./docs/flooring-materials.svg" alt="Twelve actual flooring renders: honey oak, walnut chevron, oak basket parquet, Calacatta and black marble, blush terrazzo, sage hexagons, indigo cement tile, woven sisal, porcelain, clay pavers and weathered decking." width="960">
 
 These are the floor generators themselves, shown at a consistent scale—not
-stock photography. The [complete material gallery](https://bitloomai.github.io/floorplan-studio/materials.html#material-gallery)
+stock photography. The [complete material gallery](https://karthikbabuks.github.io/floorplan-studio/materials.html#material-gallery)
 shows every shipped floor finish and item colour scheme, with its registry key.
 
 - **Choose a material and a laying pattern.** Chevron has mitred ends;
@@ -657,17 +657,17 @@ a Floorplan Studio version.
 
 ## Documentation map
 
-- [The live demo](https://bitloomai.github.io/floorplan-studio/demo/) — the
+- [The live demo](https://karthikbabuks.github.io/floorplan-studio/demo/) — the
   generated dashboard for the invented demo house, on a stand-in Home Assistant.
   `tools/make-docs.js` builds it into `docs/demo/` from the same card bundle the
   app installs, with `tools/demo-hass.js` as the stand-in.
-- [The help site](https://bitloomai.github.io/floorplan-studio/) — the
+- [The help site](https://karthikbabuks.github.io/floorplan-studio/) — the
   published guide. Its topic pages are generated by `tools/make-docs.js` from the
   same help topics the editor shows behind its **?** buttons, so the site and
   the app can never drift apart. Its figures are declared in
   `tools/help-figures.js` and drawn by the renderer from the demo house into
   `docs/figures/`. GitHub Pages serves it from `docs/`.
-- [The material gallery](https://bitloomai.github.io/floorplan-studio/materials.html#material-gallery)
+- [The material gallery](https://karthikbabuks.github.io/floorplan-studio/materials.html#material-gallery)
   — all stock flooring renders and colour palettes, in the same Pages navigation,
   theme and search. `tools/make-docs.js` hosts the gallery using material
   figures from `tools/make-material-gallery.js`.

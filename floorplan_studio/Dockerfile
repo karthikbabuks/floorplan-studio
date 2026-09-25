@@ -9,7 +9,7 @@ LABEL \
     io.hass.arch="${BUILD_ARCH}" \
     org.opencontainers.image.title="Floorplan Studio" \
     org.opencontainers.image.licenses="Apache-2.0" \
-    org.opencontainers.image.source="https://github.com/bitloomai/floorplan-studio"
+    org.opencontainers.image.source="https://github.com/karthikbabuks/floorplan-studio"
 
 # Runtime defaults live in the image so the final stage needs no shell, package
 # manager, or OS utilities.

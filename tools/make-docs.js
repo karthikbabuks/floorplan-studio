@@ -567,7 +567,7 @@ ${THEME_BOOT}
     <a href="index.html"${current === null || current === undefined ? ' aria-current="page"' : ''}>Contents</a>
     ${nav}
     <hr>
-    <a href="https://github.com/bitloomai/floorplan-studio" aria-label="Floorplan Studio source on GitHub"><span aria-hidden="true">↗</span><span>Source on GitHub</span></a>
+    <a href="https://github.com/karthikbabuks/floorplan-studio" aria-label="Floorplan Studio source on GitHub"><span aria-hidden="true">↗</span><span>Source on GitHub</span></a>
     <hr>
     <div class="lbl">Browse</div>
     <a href="demo/index.html">${categoryGlyph('dashboard')}<span>Live demo</span></a>
@@ -584,7 +584,7 @@ ${bodyHtml}
 Generated from help topics, library records and shared UI navigation by <code>tools/make-docs.js</code> — the same text the editor
 shows behind its <strong>?</strong> buttons and the MCP server returns from <code>get_help</code>.
 Every glyph is drawn by the app's own <code>shapes.js</code>. Version ${esc(pkg.version || 'dev')}.
-<br>Source, issues and releases: <a href="https://github.com/bitloomai/floorplan-studio">github.com/bitloomai/floorplan-studio</a>.
+<br>Source, issues and releases: <a href="https://github.com/karthikbabuks/floorplan-studio">github.com/karthikbabuks/floorplan-studio</a>.
 </footer></div>
 <script src="help.js"></script>
 </body></html>

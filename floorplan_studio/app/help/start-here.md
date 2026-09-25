@@ -33,7 +33,7 @@ is still in progress is the release packaging and testing on more homes than
 one, which is why Home Assistant lists it as `experimental`.
 
 You can press the generated dashboard before installing anything: the
-[live demo](https://bitloomai.github.io/floorplan-studio/demo/) runs it for an
+[live demo](https://karthikbabuks.github.io/floorplan-studio/demo/) runs it for an
 invented house against a stand-in Home Assistant in your browser.
 
 So: draw your house. Two sensible precautions while it is at this stage —

@@ -1,13 +1,13 @@
 blank_issues_enabled: false
 contact_links:
   - name: Try the live demo
-    url: https://bitloomai.github.io/floorplan-studio/demo/
+    url: https://karthikbabuks.github.io/floorplan-studio/demo/
     about: The generated dashboard for an invented house, in your browser. A quick way to check whether something also happens there.
   - name: Read the help guide
-    url: https://bitloomai.github.io/floorplan-studio/
+    url: https://karthikbabuks.github.io/floorplan-studio/
     about: How every panel, material, light setting and dashboard option works, with pictures and a type-by-type reference.
   - name: Report a security vulnerability privately
-    url: https://github.com/bitloomai/floorplan-studio/security/policy
+    url: https://github.com/karthikbabuks/floorplan-studio/security/policy
     about: Never in a public issue. Follow SECURITY.md, and keep tokens, dashboard configs and household details out of it.
   - name: Questions about Home Assistant itself
     url: https://community.home-assistant.io/

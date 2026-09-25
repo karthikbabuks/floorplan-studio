@@ -192,7 +192,7 @@ to `library.json`. A type needs `label`, `category`, `kind`
 Marker shapes are `disc`, `label`, `line`, `fan`, `channelBox`, `camera` and
 `perimeter`; furniture has one drawer per object it can be. The full list, with
 every type drawn as itself, is the generated
-[library catalogue](https://bitloomai.github.io/floorplan-studio/library.html) —
+[library catalogue](https://karthikbabuks.github.io/floorplan-studio/library.html) —
 it comes off the registry, so it cannot disagree with what the app ships.
 
 ## Sun & daylight
@@ -225,7 +225,7 @@ jaali screens, half walls and parapets, tinted, frosted and structural glazing,
 mesh, fences, hedges, gates, compound walls, thresholds, steps, voids and open
 edges. The full table, with what each one passes, is generated from the registry
 itself on the
-[walls page](https://bitloomai.github.io/floorplan-studio/walls.html) and in the
+[walls page](https://karthikbabuks.github.io/floorplan-studio/walls.html) and in the
 editor's own **?**. The transmission shown beside each is exactly what the
 daylight model reads — that is why changing a balcony edge to glass railing
 brightens the room with no other setting.

@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        The [help guide](https://bitloomai.github.io/floorplan-studio/) covers every panel and setting, and the [live demo](https://bitloomai.github.io/floorplan-studio/demo/) shows the dashboard working. Questions about Home Assistant itself, or another integration, are best asked on the [Home Assistant community forum](https://community.home-assistant.io/).
+        The [help guide](https://karthikbabuks.github.io/floorplan-studio/) covers every panel and setting, and the [live demo](https://karthikbabuks.github.io/floorplan-studio/demo/) shows the dashboard working. Questions about Home Assistant itself, or another integration, are best asked on the [Home Assistant community forum](https://community.home-assistant.io/).
 
   - type: textarea
     id: goal
